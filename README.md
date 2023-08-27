@@ -1,5 +1,5 @@
 # Project Statement
-The following project aims to perform build a sentiment analysis model using NLP. The given dataset has a collection of Tweets. Its labelled as Toxic - 1, Non toxic - 0
+The following project aims to build a sentiment analysis model using NLP. The given dataset has a collection of Tweets. Its labelled as Toxic - 1, Non toxic - 0
 https://www.kaggle.com/datasets/ashwiniyer176/toxic-tweets-dataset
 
 # Steps Followed: 
